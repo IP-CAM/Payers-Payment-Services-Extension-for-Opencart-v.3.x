@@ -1,0 +1,7 @@
+.cvsignore
+.DS_Store
+._.DS_Store
+._*
+CVS
+__MACOSX
+make.sh

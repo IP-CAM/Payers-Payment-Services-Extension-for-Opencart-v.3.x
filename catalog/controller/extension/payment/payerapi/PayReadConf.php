@@ -1,0 +1,12 @@
+<?php
+$Payer_AgentId="TESTINSTALLATION2";
+$Payer_Key1="vcj7jDF88PZJC6x7TwazMCGTFdNfr8TLb4JmxfjwUa7p7ukRQmguQPemTTsaScMT6m6utgRdgNtd9EVPR3axHeKsX3sG56r2hnmAu4EBHXFGtsnbknzTtabh4uPYq7Qx";
+$Payer_Key2="LWZDGWaAsP56fiLKNUeyUuEspgBgjDCVsuqYgrry6mvcv7MaSSzCc6VscpymS39bmq2tFhSCvdEQbiRU2gp5cameqLs9DraQG2adaTGvWccYmTJe2Ya5YnafYsetJeag";
+$Payer_RedirectPath="http://secure.payer.se/w3/payread.cgi";
+$Payer_Version="30";
+$PayRead_AgentId="TESTINSTALLATION2";
+$PayRead_Key1="vcj7jDF88PZJC6x7TwazMCGTFdNfr8TLb4JmxfjwUa7p7ukRQmguQPemTTsaScMT6m6utgRdgNtd9EVPR3axHeKsX3sG56r2hnmAu4EBHXFGtsnbknzTtabh4uPYq7Qx";
+$PayRead_Key2="LWZDGWaAsP56fiLKNUeyUuEspgBgjDCVsuqYgrry6mvcv7MaSSzCc6VscpymS39bmq2tFhSCvdEQbiRU2gp5cameqLs9DraQG2adaTGvWccYmTJe2Ya5YnafYsetJeag";
+$PayRead_RedirectPath="http://secure.payer.se/w3/payread.cgi";
+$PayRead_Version="30";
+?>
